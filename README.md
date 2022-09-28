@@ -1,5 +1,5 @@
 # react_express_mongodb_JWT
-A project demonstrates strategy of jwt authentication flow.
+A project demonstrates Flow of jwt authentication.
 
 # Installation
 - Login to MongoDb, create a cluster and 2 collections in it. Here I created 2 collections name: "employees" {Document has firstname and lastname as string) and "users"(Document has username as string, roles as  object, password as string, refreshtoken as string)

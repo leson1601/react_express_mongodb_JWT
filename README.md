@@ -7,7 +7,6 @@ A project demonstrates strategy of jwt authentication flow.
 PORT = Server Port number (example: 8080)
 DATABASE_URI = MongoDb Cluster URL 
 
-//The variables to sign and verify jwt token
 ACCESS_TOKEN_SECRET = YOUR_ACCESS_TOKEN_SECRET 
 REFRESH_TOKEN_SECRET = YOUR_REFRESH_TOKEN_SECRET 
 

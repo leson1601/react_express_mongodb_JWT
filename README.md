@@ -6,7 +6,6 @@ A project demonstrates strategy of jwt authentication flow.
 - Go to /backend and create .env file contains: 
 PORT = Server Port number (example: 8080)
 DATABASE_URI = MongoDb Cluster URL 
-
 ACCESS_TOKEN_SECRET = YOUR_ACCESS_TOKEN_SECRET 
 REFRESH_TOKEN_SECRET = YOUR_REFRESH_TOKEN_SECRET 
 

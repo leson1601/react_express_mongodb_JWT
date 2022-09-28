@@ -12,3 +12,10 @@
 20220801	13:33:57	60e94e67-872b-4bad-b46a-87c660cb9a91	TypeError: Cannot read properties of undefined (reading 'id')
 20220802	10:52:24	057d49dc-8f14-4c97-a6b9-e697f4965c6d	ReferenceError: authHeade is not defined
 20220802	10:53:08	4e454a13-4b5a-4e95-80b9-7dc14e550ff3	ReferenceError: deoced is not defined
+20220927	16:23:38	c65043b4-288c-4a64-963d-9041b5974f6d	Error: Not allowed by CORS
+20220927	16:23:38	f8ac42a7-10a4-4b01-926c-943946c50765	Error: Not allowed by CORS
+20220927	16:24:15	4ea10c39-3b1c-4fb4-9b4f-63baccebcde4	Error: Not allowed by CORS
+20220927	16:36:18	c9fbea1b-3b86-488a-a962-e52a0ebe677b	Error: Not allowed by CORS
+20220927	16:40:15	7d0dd5ca-7dbf-44c5-8be6-529d0bbb0069	Error: Not allowed by CORS
+20220927	16:40:32	0f1fa388-0120-48c0-a7fb-3e373e0f3e61	Error: Not allowed by CORS
+20220927	16:40:41	0c336613-1ac3-483a-bef2-fe9a9e9cf4ba	Error: Not allowed by CORS
